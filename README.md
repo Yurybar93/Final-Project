@@ -34,8 +34,6 @@ This project involves a comprehensive business analysis using Python data analys
 
 - Cleaned dataset.
 - Report with insights, visualizations, and recommendations.
-- Dashboard for exploring data and key findings.
-- Presentation with main findings and recommendations.
 
 ### Product Analytics Assignment
 
